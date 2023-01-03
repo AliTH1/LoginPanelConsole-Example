@@ -1,0 +1,8 @@
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\LoginPanelConsole\LoginPanelConsole\bin\Debug\LoginPanelConsole.exe.config
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\LoginPanelConsole\LoginPanelConsole\bin\Debug\LoginPanelConsole.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\LoginPanelConsole\LoginPanelConsole\bin\Debug\LoginPanelConsole.pdb
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\LoginPanelConsole\LoginPanelConsole\obj\Debug\LoginPanelConsole.csproj.AssemblyReference.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\LoginPanelConsole\LoginPanelConsole\obj\Debug\LoginPanelConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\LoginPanelConsole\LoginPanelConsole\obj\Debug\LoginPanelConsole.csproj.CoreCompileInputs.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\LoginPanelConsole\LoginPanelConsole\obj\Debug\LoginPanelConsole.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\LoginPanelConsole\LoginPanelConsole\obj\Debug\LoginPanelConsole.pdb
